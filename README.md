@@ -2,6 +2,8 @@
 
 # auth0.js
 
+This is a fork of auth0.js
+
 [![Build Status][circleci-image]][circleci-url]
 [![NPM version][npm-image]][npm-url]
 [![Coverage][codecov-image]][codecov-url]
