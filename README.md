@@ -17,5 +17,6 @@ yarn link
 In auth0-react-samples/01-Login/
 
 ```
+yarn
 yarn link auth0-js
 ```
