@@ -20,3 +20,10 @@ In auth0-react-samples/01-Login/
 yarn
 yarn link auth0-js
 ```
+
+On rebuilds as you continue to iterate the code once all of the
+above stuff is set up you simply need to
+
+```
+yarn build
+```
