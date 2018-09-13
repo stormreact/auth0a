@@ -9,9 +9,6 @@ run yarn in both repos
 This repo and
 [auth0-react-samples](https://github.com/stormasm/auth0-react-samples)
 
-auth0.js
-auth0-react-samples/01-Login/
-
 In this repo run **yarn link**
 
 In auth0-react-samples/01-Login/
